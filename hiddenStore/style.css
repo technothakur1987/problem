@@ -1,0 +1,54 @@
+
+/*css for navbar*/
+.btn-outline-success {
+    color:black!important;
+    border-color: white!important;
+}
+.nav-link.active{
+    color: white!important;
+    font-weight: 900;
+    opacity: 0.9;
+    text-shadow: 2px 2px #FF0000;
+
+}
+.loginAlert{
+    background-color: grey;
+}
+
+/*css for product and sidenav*/
+.productSection .card-img-top{
+    height: 8rem!important;
+    object-fit: contain;
+}
+
+.cateories-brand-section .card{
+
+border-radius: 0;
+
+}
+
+/*css for adminarea-index.html*/
+/*admin-panel*/
+.admin-panel .adminimg{
+    object-fit: contain;
+    height: 5rem;
+    width: 5rem;
+    
+}
+.admin-buttons .btn{
+    font-size: 0.6rem!important;
+    font-weight: 900!important;
+}
+.admin-buttons .btn:hover{
+ cursor: pointer!important;
+ background-color: white!important;
+ color: #0d6efd!important;
+ border-color: #0d6efd!important;
+ transition: 0.3s ease!important;
+}
+
+
+/*css for cart.php*/
+
+
+
